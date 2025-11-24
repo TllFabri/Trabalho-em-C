@@ -1,0 +1,1 @@
+Não sabemos o motivo e procuramos, o código não está funcionando no VSCode, fizemos o código inteiro utilizando o 'Programiz'. Estaremos anexando pelo VSCode para caso no seu funcione.
